@@ -1437,7 +1437,7 @@
     "url": "{HTML_URL}/166.html",
     "author": "98corbins",
     "authorLink": "https://98corbins.netlify.app",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1563,7 +1563,7 @@
     "url": "{HTML_URL}/179.html",
     "author": "genizy",
     "authorLink": "https://github.com/genizy/soundboard/",
-    "featured": true,
+    "featured": false,
     "special": [
       "tools"
     ]
@@ -1591,7 +1591,7 @@
     "url": "{HTML_URL}/182.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
-    "featured": true
+    "featured": false
   },
   {
     "id": 183,
@@ -1690,7 +1690,7 @@
     "url": "{HTML_URL}/194.html",
     "author": "Studio Minus, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1118200/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1702,7 +1702,7 @@
     "url": "{HTML_URL}/195.html",
     "author": "semiwork, 98corbins",
     "authorLink": "https://store.steampowered.com/app/3241660/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1714,7 +1714,7 @@
     "url": "{HTML_URL}/196-fixed.html",
     "author": "New Blood Interactive, Cake Logic",
     "authorLink": "https://sites.google.com/view/cakelogic",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1790,7 +1790,7 @@
     "url": "{HTML_URL}/205.html",
     "author": "Mike Klubnika",
     "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1874,7 +1874,7 @@
     "url": "{HTML_URL}/215.html",
     "author": "Joey Drew Studios",
     "authorLink": "https://www.joeydrewstudios.com/batim",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1886,7 +1886,7 @@
     "url": "{HTML_URL}/216.html",
     "author": "Nacho Games",
     "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -1898,7 +1898,7 @@
     "url": "{HTML_URL}/217-c.html",
     "author": "Dennaton Games",
     "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2292,7 +2292,7 @@
     "url": "{HTML_URL}/253.html",
     "author": "gn-math",
     "authorLink": "https://gn-math.github.io",
-    "featured": true,
+    "featured": false,
     "special": [
       "tools"
     ]
@@ -2339,7 +2339,7 @@
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2351,7 +2351,7 @@
     "url": "{HTML_URL}/260.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/rerun",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2371,7 +2371,7 @@
     "url": "{HTML_URL}/262.html",
     "author": "Valve",
     "authorLink": "https://www.valvesoftware.com/en/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2383,7 +2383,7 @@
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2411,7 +2411,7 @@
     "url": "{HTML_URL}/266.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2423,7 +2423,7 @@
     "url": "{HTML_URL}/267.html",
     "author": "Tour De Pizza, BurnedPopcorn",
     "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -2969,7 +2969,7 @@
     "url": "{HTML_URL}/331.html",
     "author": "No Pressure Studios",
     "authorLink": "https://www.nopressurestudios.com",
-    "featured": true
+    "featured": false
   },
   {
     "id": 332,
@@ -3745,7 +3745,7 @@
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -3768,7 +3768,7 @@
     "url": "{HTML_URL}/427-z.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -3826,7 +3826,7 @@
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -3926,7 +3926,7 @@
     "url": "{HTML_URL}/445.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -3938,7 +3938,7 @@
     "url": "{HTML_URL}/446.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -4127,7 +4127,7 @@
     "url": "{HTML_URL}/465.html",
     "author": "Studio MDHR Entertainment Inc",
     "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -4150,7 +4150,7 @@
     "url": "{HTML_URL}/467-updatee.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -4162,7 +4162,7 @@
     "url": "{HTML_URL}/468-a.html",
     "author": "Team Cherry",
     "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
@@ -4803,7 +4803,7 @@
     "url": "{HTML_URL}/542-a.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
-    "featured": true,
+    "featured": false,
     "special": [
       "port"
     ]
