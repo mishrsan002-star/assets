@@ -5261,18 +5261,6 @@
     "authorLink": "https://scriptwelder.itch.io/waterworks" 
   },
   {
-    "id": 596,
-    "name": "[!] COMMENTS",
-    "cover": "{COVER_URL}/596-uu.png",
-    "url": "{HTML_URL}/596-u.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true,
-    "special": [
-      "tools"
-    ]
-  },
-  {
     "id": 597,
     "name": "Plants vs. Zombies 2 Gardenless",
     "cover": "{COVER_URL}/597.png",
